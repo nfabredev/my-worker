@@ -1,0 +1,12 @@
+name = "my-worker"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2022-04-24"
+
+# [secrets]
+# ACCOUNT_ID
+# BEARER_TOKEN
